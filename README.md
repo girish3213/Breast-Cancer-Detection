@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection
 
-The dataset is of UCI used for breast cancer detection.Seven classification models are been used to find the model of highest accuracy for a given dataset.
+The dataset is of UCI used for breast cancer detection.Seven classification models are been used to find the model of highest accuracy for the given dataset.
 # The features used to predict Breast Cancer here are:
   1.Sample code number	
   2.Clump Thickness	
